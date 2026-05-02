@@ -6,7 +6,7 @@ const skillCategories = [
     icon: "🎨",
     title: "Frontend",
     color: "#1a56db",
-    skills: ["HTML5", "CSS3", "JavaScript (ES6+)", "React.js", "Responsive Design", "Bootstrap", "Tailwind CSS"],
+    skills: ["HTML5", "CSS3", "JavaScript (ES6+)", "React.js", "Responsive Design", "Bootstrap"],
   },
   {
     icon: "⚙️",
@@ -18,7 +18,7 @@ const skillCategories = [
     icon: "🗄️",
     title: "Database",
     color: "#0891b2",
-    skills: ["MongoDB", "MySQL", "PostgreSQL", "Firebase"],
+    skills: ["MongoDB", "MySQL"],
   },
   {
     icon: "🛠️",
