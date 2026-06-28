@@ -60,7 +60,7 @@ export default function Hero() {
           </h2>
 
           <p className="hero-desc">
-            Passionate Frontend Developer & Full Stack Fresher from BIT Durg. I craft
+            Passionate Full Stack Fresher from BIT Durg. I craft
             responsive, beautiful web experiences and love turning ideas into reality
             through clean code. Currently seeking my first internship to grow and contribute.
           </p>

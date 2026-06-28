@@ -2,6 +2,24 @@ import { useEffect, useRef, useState } from "react";
 import "./Projects.css";
 
 const projects = [
+  {
+    title: "Chat connect-Real time Chat",
+    emoji: "💬",
+    desc: "ChatConnect is a modern messaging application where users can securely communicate through one-to-one and group chats. It supports real-time messaging, media sharing, online status, typing indicators, read receipts, and JWT-based authentication.",
+    tags: ["TypeScript", "React.js", "Node.js", "Express.js"," MongoDB", "Socket.IO", "JWT, Firebase Cloud Messaging"],
+    live: "https:/blink-talk-ruddy.vercel.app",
+    github: "https://github.com/Karsh978/BlinkTalk",
+    color: "#0891b2",
+  },
+  {
+    title: "Jarvis personal-Assistant",
+    emoji: "❄️",
+    desc: "JARVIS is an AI-powered personal assistant that combines voice and text interaction to help users perform everyday tasks such as answering questions, analyzing PDF documents, searching live job opportunities, and finding nearby locations through real-time APIs..",
+    tags: ["React", "nodejs", "JavaScript", "API",'express','mongodb','Groq Whisper-large-v3','React Native & Expo','Google Gemini 1.5 Flash','Expo Go / EAS Build'],
+    live: "https://expo.dev/accounts/jarvis12/projects/Jarvis-Final-V2/builds/bd9dbf7b-0550-410b-82d1-2b5b9949dd73",
+    github: "https://github.com/Karsh978/J.I.V.A.V_0.1",
+    color: "#0891b2",
+  },
  {
     title: "Edu-Tracker Student Management",
     emoji: "🎓",

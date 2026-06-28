@@ -40,7 +40,7 @@ export default function About() {
           <div className="fade-up">
             <span className="section-tag">About Me</span>
             <h2 className="section-title">
-              Frontend Developer &<br />
+              <br />
               <span className="highlight">Full Stack Learner</span>
             </h2>
           </div>

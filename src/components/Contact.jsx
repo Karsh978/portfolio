@@ -98,7 +98,7 @@ export default function Contact() {
               <div className="av-dot" />
               <div>
                 <div className="av-title">Available for Internship</div>
-                <div className="av-sub">Open to Frontend / Full Stack roles</div>
+                <div className="av-sub">react -native  &/ Full Stack roles</div>
               </div>
             </div>
           </div>
