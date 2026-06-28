@@ -7,7 +7,7 @@ const projects = [
     emoji: "💬",
     desc: "ChatConnect is a modern messaging application where users can securely communicate through one-to-one and group chats. It supports real-time messaging, media sharing, online status, typing indicators, read receipts, and JWT-based authentication.",
     tags: ["TypeScript", "React.js", "Node.js", "Express.js"," MongoDB", "Socket.IO", "JWT, Firebase Cloud Messaging"],
-    live: "https:/blink-talk-ruddy.vercel.app",
+    live: "https://blink-talk-ruddy.vercel.app/",
     github: "https://github.com/Karsh978/BlinkTalk",
     color: "#0891b2",
   },
